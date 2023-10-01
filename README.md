@@ -29,7 +29,7 @@ The primary goal of this to demonstrate how LSTM neural networks can be used for
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/stock-prediction-lstm.git
+git clone https://github.com/kartikaysingh69/BHARATINTERN_task1_Stock_Prediction.git
 
 # Usage
 
